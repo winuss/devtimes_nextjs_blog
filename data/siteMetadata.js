@@ -6,7 +6,7 @@ const siteMetadata = {
   language: 'ko',
   theme: 'system', // system, dark or light
   siteUrl: 'https://devtimes.com',
-  siteRepo: 'https://github.com/winuss/nextjs_test_app',
+  siteRepo: 'https://github.com/winuss/devtimes_nextjs_blog',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
@@ -16,7 +16,7 @@ const siteMetadata = {
   facebook: 'https://facebook.com',
   youtube: 'https://youtube.com',
   linkedin: 'https://www.linkedin.com',
-  locale: 'ko',
+  locale: 'en',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
     // content security policy in the `next.config.js` file.
