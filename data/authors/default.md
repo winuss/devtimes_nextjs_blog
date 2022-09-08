@@ -9,9 +9,14 @@ linkedin: https://www.linkedin.com
 github: https://github.com
 ---
 
+## Work?
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+재미있게 일 하고자 한다.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+## How?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+항상 새로운 것에 도전하고 새로운 가치를 찾아내고자 한다.
+
+## What?
+
+AI, Blockchain에 관심을 가지고자 한다.
