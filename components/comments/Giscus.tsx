@@ -20,7 +20,6 @@ const Giscus = ({ mapping }: Props) => {
   const COMMENTS_ID = 'comments-container'
 
   const LoadComments = useCallback(() => {
-    console.log('>>>>>>>>', siteMetadata.comment.giscusConfig)
     setEnabledLoadComments(false)
     const script = document.createElement('script')
     script.src = 'https://giscus.app/client.js'
