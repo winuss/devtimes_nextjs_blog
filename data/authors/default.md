@@ -1,7 +1,7 @@
 ---
 name: winuss
 avatar: /static/images/avatar.png
-occupation: Software developer
+occupation: Web & Software developer
 company: k-company
 email: niceyss@naver.com
 twitter: https://twitter.com/Twitter
